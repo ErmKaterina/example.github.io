@@ -1,0 +1,19 @@
+.container{
+display: flex ;
+flex-direction: column;
+padding: 4px;
+}
+
+.textInfo1{
+    display: flex ;
+    flex-direction: column;
+    
+}
+.textboxs{
+    width: 180px;
+}
+.buttons{
+    padding-top: 32px;
+    width: 180px;
+    height: 20px;
+}
